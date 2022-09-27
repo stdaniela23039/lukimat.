@@ -1,6 +1,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Theme.Lukimat" parent="Theme.AppCompat">
+    <style name="Theme.Lukimat" parent="Theme.AppCompat.DayNight.DarkActionBar">
         <!-- Primary brand color. -->
         <item name="colorPrimary">@color/primaryColor</item>
         <item name="colorPrimaryDark">@color/primaryDarkColor</item>
@@ -8,4 +8,5 @@
         <!-- Customize your theme here. -->
 
     </style>
+
 </resources>
