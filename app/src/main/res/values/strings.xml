@@ -1,6 +1,7 @@
 <resources>
-    <string name="app_name">Lukimat</string>
-    <string name="luki">LUKI</string>
-    <string name="toca_para_iniciar">toca para iniciar</string>
-    <string name="mat">MAT</string>
+    <string name="app_name">lukimat.</string>
+    <string name="suma">SUMA</string>
+    <string name="multiplicacion">MULTIPLICACION</string>
+    <string name="division">DIVISION</string>
+    <string name="resta">RESTA</string>
 </resources>
