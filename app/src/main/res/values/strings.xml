@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">lukimat.</string>
+    <string name="suma">SUMA</string>
+    <string name="multiplicacion">MULTIPLICACION</string>
+    <string name="division">DIVISION</string>
+    <string name="resta">RESTA</string>
 </resources>
