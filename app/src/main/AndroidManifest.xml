@@ -17,9 +17,6 @@
             android:name=".MenuActivity"
             android:exported="false" />
         <activity
-            android:name=".CargaJuegoActivity"
-            android:exported="false" />
-        <activity
             android:name=".MainActivity"
             android:exported="true" >
             <intent-filter>
