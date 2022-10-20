@@ -11,7 +11,7 @@
         android:id="@+id/imageView2"
         android:layout_width="242dp"
         android:layout_height="312dp"
-        android:contentDescription="@string/personaje"
+        android:contentDescription="Personaje de juego"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.85"

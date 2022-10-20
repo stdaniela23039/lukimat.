@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android/Projects/lukimat/app/src/main/res/drawable/ic_launcher.xml" value="0.1" />
         <entry key="..\:/Android/Projects/lukimat/app/src/main/res/layout/activity_carga_juego.xml" value="0.18" />
         <entry key="..\:/Android/Projects/lukimat/app/src/main/res/layout/activity_main.xml" value="0.15443840579710144" />
         <entry key="..\:/lukimat/app/src/main/res/layout/activity_main.xml" value="0.18" />

@@ -12,7 +12,7 @@
         android:layout_height="119dp"
         android:layout_marginTop="56dp"
         android:fontFamily="casual"
-        android:text="@string/luki"
+        android:text="Luki"
         android:textSize="70sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.699"
@@ -20,11 +20,11 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/buttonIniciar"
         android:layout_width="285dp"
         android:layout_height="71dp"
         android:layout_marginTop="452dp"
-        android:text="@string/toca_para_iniciar"
+        android:text="Toca para iniciar"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -36,7 +36,7 @@
         android:layout_width="168dp"
         android:layout_height="107dp"
         android:fontFamily="casual"
-        android:text="@string/mat"
+        android:text="Mat"
         android:textSize="70sp"
         app:layout_constraintBottom_toTopOf="@+id/button"
         app:layout_constraintEnd_toEndOf="parent"
