@@ -11,7 +11,7 @@
 
 
     <Button
-        android:id="@+id/button2"
+        android:id="@+id/buttonmenu"
         android:layout_width="145dp"
         android:layout_height="99dp"
         android:text="@string/suma"
