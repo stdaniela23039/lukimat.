@@ -23,10 +23,10 @@
 
     <Button
         android:id="@+id/button"
-        android:layout_width="111dp"
-        android:layout_height="68dp"
-        android:text="@string/registrate"
+        android:layout_width="141dp"
+        android:layout_height="74dp"
         app:layout_constraintBottom_toBottomOf="parent"
+        android:text="@string/usuario"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.8"
         app:layout_constraintStart_toStartOf="parent"
