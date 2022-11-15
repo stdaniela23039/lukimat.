@@ -38,7 +38,7 @@
         android:fontFamily="casual"
         android:text="Mat"
         android:textSize="70sp"
-        app:layout_constraintBottom_toTopOf="@+id/buttonusuario"
+        app:layout_constraintBottom_toTopOf="@+id/buttonIrMenu"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.144"
         app:layout_constraintStart_toStartOf="parent"
